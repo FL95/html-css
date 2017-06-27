@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+img {
+    border: 10px groove orangered;
+}.jesusone {
+    border: 10px dashed orangered;
+}.jesustwo {
+    border: 10px dotted orangered;
+}.jesusthree {
+    border: 10px double orangered;
+}
