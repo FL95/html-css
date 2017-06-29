@@ -1,0 +1,10 @@
+div {
+    width: 480px;
+    height: 600px;
+    background-color: cornflowerblue;
+    border-radius: 20%;
+    border: groove 20px;
+    background-image: url("../../000_img/gclassjesus.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
