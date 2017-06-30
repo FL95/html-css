@@ -1,0 +1,12 @@
+/*text-align allows you to align text in an element*/
+body {
+    font-size: 36px;
+    text-align: center;
+}
+
+/*In the HTML the attribute's value will appear
+in quotes, but not when you use it as a
+selector in CSS*/
+[target=_blank] {
+    color: red;
+}

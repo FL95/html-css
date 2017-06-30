@@ -1,0 +1,7 @@
+/*The contenteditable attribute allows users to edit content
+on the webpage, but only as it appears on their browser. In
+other words no changes are made that persist on the server.*/
+[contenteditable] {
+    color: red;
+    border: 1px dashed black;
+}

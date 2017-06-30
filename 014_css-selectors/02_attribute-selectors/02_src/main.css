@@ -1,0 +1,10 @@
+/*Attribute selectors are enclosed in square
+brackets. They allow you to style attributes.*/
+
+[src] {
+    border: 10px dashed red;
+}
+
+[href] {
+    border: 2px dashed green;
+}
