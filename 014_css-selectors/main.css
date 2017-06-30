@@ -1,0 +1,18 @@
+/*You can see by viewing this document in a browser
+this element selector is overridden by an id and
+class selectors*/
+div {
+    color: darksalmon;
+}
+
+
+/*The class attribute is denoted by a period at the beginning*/
+.emphasize {
+    color: orange;
+}
+
+/*The id attribute is denoted by a hashtag
+at the beginning*/
+#promote {
+    color: red;
+}
