@@ -1,0 +1,8 @@
+body {
+    font-size: 36px;
+}
+/*nth-child(even) pseudo class, selects the even children of a specified tag.
+The syntax is element:nth-child(even)*/
+li:nth-child(even) {
+    color: red;
+}

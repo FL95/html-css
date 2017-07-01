@@ -1,0 +1,7 @@
+/*The only-child pseudo class can only be applied to a child if
+it has no other siblings. ie you can't use only-child to style
+an article tag if there is another article tag nested alongside it*/
+
+article:only-child {
+    color: red;
+}

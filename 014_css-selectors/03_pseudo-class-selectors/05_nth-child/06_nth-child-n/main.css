@@ -1,0 +1,9 @@
+body {
+    font-size: 36px;
+}
+/*nth-child(n) pseudo class, selects the child
+of the number in the parenthesis of a specified tag.
+The syntax is element:nth-child(n)*/
+li:nth-child(3) {
+    color: red;
+}

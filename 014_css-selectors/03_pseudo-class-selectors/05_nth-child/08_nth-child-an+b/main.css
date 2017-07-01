@@ -1,0 +1,19 @@
+/*(3n+2), basically start with +2
+and every 3rd element after that*/
+
+li:nth-child(3n+2) {
+    color: red;
+}
+
+/*
+Try changing selector to select each of the following:
+8, 18, 28, 38, ... solution: (10n+8)
+9, 12, 15, ..., 39, ... solution: (3n+9)
+3, 12, 21, 30, 39, ... solution: (9n+3)
+*/
+
+/*:nth-child(an+b) broken down:
+b is the number you want to start at
+a is the number you increment by
+n is every nth element
+*/

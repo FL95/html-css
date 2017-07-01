@@ -1,0 +1,8 @@
+body {
+    font-size: 36px;
+}
+/*first-child pseudo class, selects the first child of a specified tag.
+The syntax is element:first-child*/
+li:first-child {
+    color: red;
+}

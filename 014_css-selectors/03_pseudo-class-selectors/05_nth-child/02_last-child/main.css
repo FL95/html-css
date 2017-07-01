@@ -1,0 +1,8 @@
+body {
+    font-size: 36px;
+}
+/*last-child pseudo class, selects the last child of a specified tag.
+The syntax is element:last-child*/
+li:last-child {
+    color: red;
+}
