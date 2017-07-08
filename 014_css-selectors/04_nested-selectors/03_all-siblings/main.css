@@ -1,0 +1,12 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+/*This nested selector targets all
+the siblings of a given tag/element
+syntax is: tag ~ tag*/
+div ~ p {
+    color: red;
+}

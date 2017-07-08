@@ -1,0 +1,12 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+/*This nested selector targets all children
+nested inside of the parent tag. The syntax
+is: parent child*/
+div p {
+    color: red;
+}

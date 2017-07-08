@@ -1,0 +1,12 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+/*This nested selector targets the immediate
+sibling of a given tag/element. Syntax is:
+tag + tag*/
+div + p {
+    color: red;
+}
