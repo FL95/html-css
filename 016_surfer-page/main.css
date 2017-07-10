@@ -1,0 +1,30 @@
+html {
+    background-color: blue;
+}
+
+body {
+    background-color: green;
+    border: solid black 5px;
+}
+
+img {
+    display: block;
+    border: 20px groove gold;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    color: blue;
+}
+
+h2 {
+    font-size: 36px;
+    color: red;
+}
+
+p {
+    font-size: 24px;
+    color: black;
+}
