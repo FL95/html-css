@@ -1,0 +1,15 @@
+a:link {
+    color: cornflowerblue;
+}
+
+a:visited {
+    color: mediumpurple;
+}
+
+a:hover {
+    color: darkseagreen;
+}
+
+a:active {
+    color: gold;
+}
