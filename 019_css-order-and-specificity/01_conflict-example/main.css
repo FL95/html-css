@@ -1,0 +1,18 @@
+/*In ascending order of specificity: elements/pseudo-elements,
+classes/attributes/pseudo-classes, IDs, Inline styles*/
+
+h1 {
+    color: red;
+}
+
+#emph {
+    color: blue;
+}
+
+.cowboy {
+    color: green;
+}
+
+.emphasize {
+    color: yellow;
+}
