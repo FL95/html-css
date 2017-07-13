@@ -1,0 +1,11 @@
+/*The element has a specificity value of 1
+while the class has a specificity of 10, so
+the class selector will have its styling displayed.*/
+
+p {
+    color: cornflowerblue;
+}
+
+.red {
+    color: red;
+}

@@ -1,0 +1,10 @@
+/*The element has a specificity value of 1
+while the attribute has a specificity of 10, so
+the attribute selector will have its styling displayed.*/
+a {
+    color: blue;
+}
+
+[target=_blank] {
+    color: slategrey;
+}

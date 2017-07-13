@@ -1,0 +1,12 @@
+/*The class has a specificity value of 10
+while the attribute also has a specificity
+of 10. Since both rulesets have the same
+specificity the one written last will be
+displayed*/
+.grey {
+    color: slategrey;
+}
+
+[target=_blank] {
+    color: darkslategrey;
+}

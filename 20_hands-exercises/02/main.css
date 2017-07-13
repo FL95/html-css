@@ -1,0 +1,11 @@
+/*The element has a specificity value of 1
+while the id has a specificity of 100, so
+the id selector will have its styling displayed.*/
+
+p {
+    color: red;
+}
+
+#blue {
+    color: cornflowerblue;
+}

@@ -3,20 +3,15 @@ classes/attributes/pseudo-classes, IDs, Inline styles*/
 
 /*When level of specificity is the same the last written
 selector is chosen to style the element*/
-h1 {
+
+p {
+    color: black;
+}
+
+.red {
     color: red;
-    border: 1px solid black;
-    font-style: italic;
 }
 
-/*#emph {*/
-    /*color: blue;*/
-/*}*/
-
-.cowboy {
-    color: green;
-}
-
-.emphasize {
-    color: yellow;
+.blue {
+    color: blue;
 }

@@ -1,0 +1,16 @@
+/*Spaces denotes descendancy, a space between
+ ul and #summer-drinks means any descendant
+ of ul with the id #summer-drinks, while no
+ space between them means any ul element with
+ the id #summer-drinks.
+
+ It could change which declaration gets applied*/
+ul#summer-drinks li.favorite {
+    color: red;
+}
+
+/*Compound selectors should be in descending
+order corresponding with the HTML document*/
+html body ul#summer-drinks li.favorite {
+    color: blue;
+}

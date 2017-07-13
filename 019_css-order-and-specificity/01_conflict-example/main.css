@@ -1,6 +1,9 @@
 /*In ascending order of specificity: elements/pseudo-elements,
 classes/attributes/pseudo-classes, IDs, Inline styles*/
 
+/*When level of specificity is the same the last written
+selector is chosen to style the element*/
+
 h1 {
     color: red;
 }

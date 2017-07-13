@@ -1,0 +1,13 @@
+/*The selector with greater specificity will
+override the selector with less, in the case
+below the compound selector (the selector
+with two elements and an id) has a greater
+specificity*/
+
+.favorite {
+    color: red;
+}
+
+ul#summer-drinks li {
+    color: blue;
+}

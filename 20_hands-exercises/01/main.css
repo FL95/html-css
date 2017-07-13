@@ -1,0 +1,11 @@
+/*The class has a specificity value of 10
+while the id has a specificity of 100, so
+the id selector will have its styling displayed.*/
+
+.red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
