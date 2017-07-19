@@ -1,0 +1,15 @@
+html {
+    background-color: antiquewhite;
+}
+html, body, h1 {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*text-shadow accepts a comma-separated list: x, y, blur radius, color*/
+h1 {
+    font-size: 20rem;
+    text-shadow: 5px 5px 20px red;
+    text-align: center;
+    font-style: italic;
+}
