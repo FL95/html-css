@@ -1,0 +1,5 @@
+/*vw is 1/100th of the width of the viewport*/
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 4vw;
+}

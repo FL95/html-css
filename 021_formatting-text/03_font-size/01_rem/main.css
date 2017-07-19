@@ -1,0 +1,6 @@
+/*The rem font-size value sets the font relative to the root font-size
+of a users browser*/
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.5rem;
+}
