@@ -1,0 +1,9 @@
+html {
+    font-size: 15rem;
+}
+
+a {
+    color: slategray;
+    text-decoration: none;
+    font-style: italic;
+}

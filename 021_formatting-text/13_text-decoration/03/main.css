@@ -1,0 +1,9 @@
+html {
+    font-size: 15rem;
+}
+
+p {
+    color: slategray;
+    text-decoration: line-through;
+    font-style: italic;
+}

@@ -1,0 +1,8 @@
+html {
+    font-size: 15rem;
+}
+
+p {
+    color: darkseagreen;
+    text-decoration: line-through underline overline;
+}
