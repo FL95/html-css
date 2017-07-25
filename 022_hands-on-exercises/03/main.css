@@ -1,0 +1,15 @@
+p {
+    font-family: 'Zilla Slab', serif;
+}
+
+#normal {
+    font-weight: normal;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#two-hundred {
+    font-weight: 200;
+}
